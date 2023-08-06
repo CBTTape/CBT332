@@ -1,0 +1,11 @@
+2023-08-06 03:28:04.993593 - Initialized conversion of CBT332
+2023-08-06 03:28:05.088608 - Received CBT.V505.FILE332.PDS from FILE332.XMI 
+2023-08-06 03:28:05.091046 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE332.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:28:05.092060 - Found $EPILOG.txt (text/plain) in CBT.V505.FILE332.PDS, moved to PDS/$EPILOG
+2023-08-06 03:28:05.093021 - Found $PROLOG.txt (text/plain) in CBT.V505.FILE332.PDS, moved to PDS/$PROLOG
+2023-08-06 03:28:05.093950 - Found $STCK.txt (text/plain) in CBT.V505.FILE332.PDS, moved to PDS/$STCK
+2023-08-06 03:28:05.094932 - Found @FILE332.txt (text/plain) in CBT.V505.FILE332.PDS, moved to PDS/@FILE332
+2023-08-06 03:28:05.095880 - Found AUTO.txt (text/plain) in CBT.V505.FILE332.PDS, moved to PDS/AUTO
+2023-08-06 03:28:05.096775 - Found DA.txt (text/plain) in CBT.V505.FILE332.PDS, moved to PDS/DA
+2023-08-06 03:28:05.097639 - Found OTTO$.txt (text/plain) in CBT.V505.FILE332.PDS, moved to PDS/OTTO$
+2023-08-06 03:28:05.098654 - Found OTTO#.txt (text/plain) in CBT.V505.FILE332.PDS, moved to PDS/OTTO#
