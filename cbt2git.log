@@ -1,0 +1,10 @@
+2025-04-13 18:45:26.453821 - Received CBT.V508.FILE332.PDS from FILE332.XMI 
+2025-04-13 18:45:26.454833 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/$$$#DATE
+2025-04-13 18:45:26.455042 - Found $EPILOG.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/$EPILOG
+2025-04-13 18:45:26.455243 - Found $PROLOG.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/$PROLOG
+2025-04-13 18:45:26.455465 - Found $STCK.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/$STCK
+2025-04-13 18:45:26.455671 - Found @FILE332.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/@FILE332
+2025-04-13 18:45:26.455893 - Found AUTO.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/AUTO
+2025-04-13 18:45:26.456105 - Found DA.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/DA
+2025-04-13 18:45:26.456295 - Found OTTO$.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/OTTO$
+2025-04-13 18:45:26.456557 - Found OTTO#.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/OTTO#
