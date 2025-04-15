@@ -1,10 +1,10 @@
-2025-04-15 01:36:16.934248 - Received CBT.V508.FILE332.PDS from FILE332.XMI 
-2025-04-15 01:36:16.935616 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/$$$#DATE
-2025-04-15 01:36:16.935922 - Found $EPILOG.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/$EPILOG
-2025-04-15 01:36:16.936207 - Found $PROLOG.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/$PROLOG
-2025-04-15 01:36:16.936399 - Found $STCK.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/$STCK
-2025-04-15 01:36:16.936632 - Found @FILE332.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/@FILE332
-2025-04-15 01:36:16.937217 - Found AUTO.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/AUTO
-2025-04-15 01:36:16.937573 - Found DA.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/DA
-2025-04-15 01:36:16.937752 - Found OTTO$.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/OTTO$
-2025-04-15 01:36:16.938433 - Found OTTO#.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/OTTO#
+2025-04-15 20:24:18.365444 - Received CBT.V508.FILE332.PDS from FILE332.XMI 
+2025-04-15 20:24:18.366809 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/$$$#DATE
+2025-04-15 20:24:18.367165 - Found $EPILOG.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/$EPILOG
+2025-04-15 20:24:18.367498 - Found $PROLOG.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/$PROLOG
+2025-04-15 20:24:18.367714 - Found $STCK.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/$STCK
+2025-04-15 20:24:18.367760 - Found @FILE332.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/@FILE332
+2025-04-15 20:24:18.368564 - Found AUTO.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/AUTO
+2025-04-15 20:24:18.369063 - Found DA.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/DA
+2025-04-15 20:24:18.369267 - Found OTTO$.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/OTTO$
+2025-04-15 20:24:18.370722 - Found OTTO#.txt (text/plain) in CBT.V508.FILE332.PDS, moved to PDS/OTTO#
